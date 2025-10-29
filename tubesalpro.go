@@ -1,3 +1,4 @@
+// ini komentar untuk tugas latihan Git
 package main 
 import "fmt"
 func menu() {
